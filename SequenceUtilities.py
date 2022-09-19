@@ -44,7 +44,7 @@ def getNumbering(_chain):
                  '100C','100D','100E','100F','100G','100H','100I','100J','100K','100L','100M','100N','100O','100P',
                  '100Q','100R','100S','100T','100U','100V','100W','100X','100Y','100Z',
                  '101','102','103','104','105','106','107','108','109','110','111','112','113']
-        return pos
+    return pos
 
 def getCDRPos(_loop,cdr_scheme='chothia'):
     #ASSUMES SEQUENCES ARE NUMBERED IN CHOTHIA SCHEME
