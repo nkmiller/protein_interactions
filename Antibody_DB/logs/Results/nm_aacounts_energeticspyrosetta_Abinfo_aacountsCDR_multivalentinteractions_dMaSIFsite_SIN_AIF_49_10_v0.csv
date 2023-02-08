@@ -1,0 +1,17 @@
+,importance,feature
+12,0.154,L1_avg_epitope_SIN
+0,0.075,IE
+7,0.075,L3_charged_aromatic
+13,0.074,avg_paratope_SIN
+6,0.065,L2_aromatic_aromatic
+2,0.064,interaction_total_energy
+11,0.063,avg_paratope_dMaSIF
+3,0.061,sc_total
+1,0.061,RE
+14,0.055,L1_avg_epitope_AIF
+15,0.052,avg_paratope_AIF
+10,0.052,L2_total_dMaSIF
+8,0.048,L1_multivalent
+4,0.04,H3_length
+9,0.039,L2_multivalent
+5,0.023,"L3-9,10-A"

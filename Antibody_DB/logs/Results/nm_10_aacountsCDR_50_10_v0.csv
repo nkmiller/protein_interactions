@@ -1,0 +1,11 @@
+,importance,feature
+8,0.116,L3_hydrophobic_charged
+9,0.113,L3_special_charged
+7,0.103,L3_charged_aromatic
+5,0.102,L2_special_charged
+6,0.101,L3_aromatic_aromatic
+0,0.095,H1_polar_charged
+4,0.095,L2_aromatic_charged
+2,0.095,H3_aromatic_polar
+3,0.092,L2_aromatic_aromatic
+1,0.088,H1_aromatic_charged

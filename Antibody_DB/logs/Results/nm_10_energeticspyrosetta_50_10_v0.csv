@@ -1,0 +1,11 @@
+,importance,feature
+1,0.121,interaction_total_energy
+2,0.119,sc_total
+3,0.11,dSASA
+0,0.108,epitope_total_energy
+4,0.103,interface_dg
+8,0.094,h3_interaction_energy
+9,0.091,l3_interaction_energy
+6,0.087,h1_interaction_energy
+5,0.085,separated_interface_energy_ratio
+7,0.082,h2_interaction_energy
